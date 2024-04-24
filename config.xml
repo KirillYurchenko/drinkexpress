@@ -46,6 +46,7 @@
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
     <preference name="ScrollEnabled" value="true" />
+    <icon src="resources/android/icon.png" />
     <platform name="android">
         <preference name="android-targetSdkVersion" value="34" />
         <preference name="Scheme" value="http" />
