@@ -19,10 +19,10 @@
     <allow-intent href="maps:*" />
     <preference name="AllowInlineMediaPlayback" value="true" />
     <preference name="MediaPlaybackRequiresUserAction" value="false" />
-    <allow-navigation href="*youtube*" />
-    <allow-navigation href="*ytimg*" />
-    <allow-navigation href="*youtube-nocookie*" />
-    <allow-navigation href="*www.novedivadlo.sk*" />
+    <allow-navigation href="http://*youtube*" />
+    <allow-navigation href="http://*ytimg*" />
+    <allow-navigation href="http://*youtube-nocookie*" />
+    <allow-navigation href="http://*www.novedivadlo.sk*" />
     <allow-navigation href="https://*youtube.com/*" />
     <allow-navigation href="http://*/*" />
     <preference name="BackupWebStorage" value="none" />
